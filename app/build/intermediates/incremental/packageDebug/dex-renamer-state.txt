@@ -1,0 +1,7 @@
+#Thu Sep 07 21:09:51 CST 2017
+base.0=D\:\\BluetoothCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee936c45a84c445863183b4aa7b018f67d21619a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\BluetoothCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_799f04462c13a63c2db3cf35b713780416dd8390\\classes.dex
+base.1=D\:\\BluetoothCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_799f04462c13a63c2db3cf35b713780416dd8390
+file.0=D\:\\BluetoothCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee936c45a84c445863183b4aa7b018f67d21619a\\classes.dex

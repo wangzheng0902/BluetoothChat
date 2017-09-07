@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_container_shadow.9.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\bg_container_shadow.9.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_options.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\selector_btn_options.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_container_shadow.9.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\bg_container_shadow.9.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\99b021b80949d866b00abdcbc39041cc947aa1f2\\output\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\line_divider.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_shade_bottom.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\shape_shade_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_options.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\selector_btn_options.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_button_pressed.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\layer_button_pressed.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\bg_tag_main.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\99b021b80949d866b00abdcbc39041cc947aa1f2\\output\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_button_pressed.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\layer_button_pressed.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "D:\\woekspace\\MyApplication\\MaterialDesignDialoglibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\timing.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\timing.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main_normal.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\bg_tag_main_normal.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\version.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\version.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_option_menu.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\btn_selector_option_menu.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_option.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\selector_btn_option.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_pressed.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\99b021b80949d866b00abdcbc39041cc947aa1f2\\output\\res\\drawable\\bg_button_pressed.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\sended.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\sended.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main_pressed.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\bg_tag_main_pressed.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_shade_top.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\shape_shade_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_option.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\selector_btn_option.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\shape_button.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_shade_bottom.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\shape_shade_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_option_menu.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\btn_selector_option_menu.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\float_box.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\float_box.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "D:\\woekspace\\MyApplication\\MaterialDesignDialoglibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_button_normal.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\layer_button_normal.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main_pressed.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\bg_tag_main_pressed.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos_pressed.xml",
+        "source": "D:\\woekspace\\MyApplication\\MaterialDesignDialoglibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\material_card_nos_pressed.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\bg_tag_main.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\version.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\version.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\float_box.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\float_box.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos.xml",
+        "source": "D:\\woekspace\\MyApplication\\MaterialDesignDialoglibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\material_card_nos.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timing.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\timing.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tag_main_normal.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\drawable\\bg_tag_main_normal.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_button_normal.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\layer_button_normal.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_normal.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\99b021b80949d866b00abdcbc39041cc947aa1f2\\output\\res\\drawable\\bg_button_normal.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_shade_top.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\shape_shade_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\shape_button.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\line_divider.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sended.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\drawable\\sended.png"
+    }
+]

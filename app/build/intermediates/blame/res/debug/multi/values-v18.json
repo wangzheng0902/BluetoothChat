@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\BluetoothCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 48,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 48,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    }
+]

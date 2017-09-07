@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_value.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\slide_in_value.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_to_bottom.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\slide_top_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_2.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\cycle_2.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_value.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\slide_out_value.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_to_bottom.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\slide_top_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_value.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\slide_in_value.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_2.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\cycle_2.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_value.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\slide_out_value.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_to_top.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\anim\\slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_to_top.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\anim\\slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

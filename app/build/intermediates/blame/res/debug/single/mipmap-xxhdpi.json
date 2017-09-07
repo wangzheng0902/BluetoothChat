@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\usr_logo.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxhdpi\\usr_logo.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_back_white_36dp.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_back_white_36dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_share_white_36dp.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_share_white_36dp.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_share_white_36dp.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxhdpi\\ic_share_white_36dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_back_white_36dp.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_back_white_36dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\update.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxhdpi\\update.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\usr_logo.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxhdpi\\usr_logo.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\update.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxhdpi\\update.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_bluetooth_disabled_white_48dp.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bluetooth_disabled_white_48dp.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_bluetooth_disabled_white_48dp.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xxxhdpi\\ic_bluetooth_disabled_white_48dp.png"
+    }
+]

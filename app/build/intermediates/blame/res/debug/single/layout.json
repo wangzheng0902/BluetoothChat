@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_main.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_main.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_device_name.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_device_name.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_message_left.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\layout_item_message_left.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_top.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\toolbar_top.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\activity_characteristics.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\activity_characteristics.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\item_service.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\item_characteristic.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\item_characteristic.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\item_option_select.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\item_option_select.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_message_left.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\layout_item_message_left.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gatt_detail.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\activity_gatt_detail.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_material_dialog.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\99b021b80949d866b00abdcbc39041cc947aa1f2\\output\\res\\layout\\layout_material_dialog.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_toolbar_top.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_toolbar_top.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_services.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_update_listviewitems.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_update_listviewitems.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_fragment.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_fragment.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\layout_materialdialog.xml",
+        "source": "D:\\woekspace\\MyApplication\\MaterialDesignDialoglibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_materialdialog.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_listviewitems.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_listviewitems.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_device_list.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_device_list.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_listviewitems.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_listviewitems.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\progressbar_item.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\progressbar_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\options_menu.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_top.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\toolbar_top.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\ble_fragment.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\ble_fragment.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\options_menu.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ble_fragment.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\ble_fragment.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_message_right.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\layout_item_message_right.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_option_select.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\item_option_select.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\d84cc1efce82e67b1edc791b5827b71c6bb2004b\\output\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_message_right.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\layout_item_message_right.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_characteristic.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\item_characteristic.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gatt_detail.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\activity_gatt_detail.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_fragment.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_fragment.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_device_list.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_device_list.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progressbar_item.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\progressbar_item.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\activity_services.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spp_update_listviewitems.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\spp_update_listviewitems.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_characteristics.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\activity_characteristics.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_device_name.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_device_name.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_service.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_main.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_main.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\shizhiyuan\\.android\\build-cache\\8563fbfc5099dfb5a70fbb8a35f7c6c2a786f27b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\wz\\.android\\build-cache\\e4532e2f69816058d6a553cea94ca06fc0ef3042\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\layout\\spp_toolbar_top.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\layout\\spp_toolbar_top.xml"
+    }
+]

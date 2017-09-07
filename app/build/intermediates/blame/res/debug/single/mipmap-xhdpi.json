@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ble_icon.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\ble_icon.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_white_36dp.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_white_36dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bluetooth_icon_big.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\bluetooth_icon_big.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_more_vertical_white_18dp.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_vertical_white_18dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_option_more.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_option_more.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_white_36dp.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\ic_search_white_36dp.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bluetooth_icon_big.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\bluetooth_icon_big.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_option_more.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\ic_option_more.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\blue_icon.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\blue_icon.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_container_shadow.9.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\bg_container_shadow.9.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_container_shadow.9.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\bg_container_shadow.9.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_more_vertical_white_18dp.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\ic_more_vertical_white_18dp.png"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ble_icon.png",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\mipmap-xhdpi\\ble_icon.png"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\blue_icon.png",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\mipmap-xhdpi\\blue_icon.png"
+    }
+]

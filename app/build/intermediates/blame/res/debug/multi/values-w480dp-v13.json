@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 61,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\shizhiyuan\\.android\\build-cache\\9991a160374460eb954682dbf81b39c016df5ad6\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 71,
+                        "endOffset": 631
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\BluetoothCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 61,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\wz\\.android\\build-cache\\1ced2483e936325ad3daa91d5d522df799713acf\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 71,
+                        "endOffset": 631
+                    }
+                }
+            }
+        ]
+    }
+]

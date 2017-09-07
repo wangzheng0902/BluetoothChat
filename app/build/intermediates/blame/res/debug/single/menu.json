@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\menu\\menu_more.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\menu\\menu_more.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\menu\\menu_usr.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\menu\\menu_usr.xml"
+    },
+    {
+        "merged": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\build\\intermediates\\res\\merged\\debug\\menu\\menu_share.xml",
+        "source": "D:\\woekspace\\MyApplication\\usrsimplebleassistent\\src\\main\\res\\menu\\menu_share.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_share.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\menu\\menu_share.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_more.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\menu\\menu_more.xml"
+    },
+    {
+        "merged": "D:\\BluetoothCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_usr.xml",
+        "source": "D:\\BluetoothCC\\app\\src\\main\\res\\menu\\menu_usr.xml"
+    }
+]
